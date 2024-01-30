@@ -1,11 +1,11 @@
-# Terminal Cheetsheet
+# Terminal Cheatsheet
 ## Overview
 This Cheatsheet provides a quick overview of all the terminal commands learnt during the BNTA course so far. This includes navigation, file/folder editing, and github basics!
 
 **Tip:** *For a quick way to get into the Terminal on Mac, do cmd + space to openm Spotlight, then type in 'Terminal'*
 
 
-## Inspecting your file System
+## Inspecting your File System
 
 - `pwd`   = Print working directory. Gives you the pathway to your current working directory *e.g /Users/leilapeltier/Documents*
 
@@ -50,7 +50,7 @@ This Cheatsheet provides a quick overview of all the terminal commands learnt du
 - `cp -r` foldername + destination pathway = Copies named folder into named directory - including subfolders!
 - `code` = 
 
-### Extras/Shortcuts
+### (Extras/Shortcuts)
 
 - `..` = Shortcut for ' directory above this one'. 
 - `.`  = Shortcut for 'this directory'. Good for if you want to do things like copy everything in a current directory into another, open everything in the current directory etc. without typing in a whole filepath.
