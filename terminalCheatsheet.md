@@ -2,7 +2,7 @@
 ## Overview
 This Cheatsheet provides a quick overview of all the terminal commands learnt during the BNTA course so far. This includes navigation, file/folder editing, and github basics!
 
-**Tip:** *For a quick way to get into the Terminal on Mac, do cmd + space to openm Spotlight, then type in 'Terminal'*
+**Tip:** *For a quick way to get into the Terminal on Mac, do cmd + space to open Spotlight, then type in 'Terminal'*
 
 
 ## Inspecting your File System
@@ -68,7 +68,7 @@ The following is everything you can do locally:
 
 - `git add` + folder_path/filename = Stages a specific directory or file.
 - `git add .` = Stages all files in the directory - including ones beginning with a dot.
-- `git add --all` = Stages all files in the directory - including ones beginning with a dot AND deletes files not in the current working tree.
+- `git add --all` or `gaa` = Stages all files in the directory - including ones beginning with a dot AND deletes files not in the current working tree.
 - `git commit -m` + "commit message" = Commits changes that have been staged. Commit message is used to let future you and others know what exaclty changed in that commit *e.g. `git commit -m"added a missing link to homepage"`*
 
 - `git revert` + repo ID = Reverses changes made in a specified commit
